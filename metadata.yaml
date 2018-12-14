@@ -1,0 +1,32 @@
+_repo: Minkie_58434
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Boehm, H. Richard
+    alias: Boehm, Henry Richard
+    birthdate: 1871
+    deathdate: 1914
+    gutenberg_agent_id: '33471'
+    url: http://www.gutenberg.org/2009/agents/33471
+creator:
+  author:
+    agent_name: Tracy, Louis
+    alias: Holmes, Gordon
+    birthdate: 1863
+    deathdate: 1928
+    gutenberg_agent_id: '1627'
+    url: http://www.gutenberg.org/2009/agents/1627
+    wikipedia: http://en.wikipedia.org/wiki/Louis_Tracy
+description: ''
+gutenberg_issued: '2018-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58434'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Minkie
+url: http://www.gutenberg.org/ebooks/58434
